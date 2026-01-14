@@ -3,6 +3,12 @@ This project is a page with recipes, I will be using html.
 This is going to be a basic page that will reflect the main building blocks of html
 
 All the recipes information was taken from Allrecipes
+https://www.allrecipes.com/marry-me-chicken-soup-recipe-8421914
+
+https://www.allrecipes.com/recipe/9027/kung-pao-chicken/
+
+https://www.allrecipes.com/marry-me-shrimp-pasta-recipe-8637241
+
 
 Photos of recipes taken from pexels
 
