@@ -30,15 +30,21 @@ h1 {
 
 h2 {
     font-weight: 500;
+    margin-bottom: 8px;
 }
 
 .content ul {
     list-style-type: none;
 }
 
+.content li {
+    padding: 5px;
+}
+
 .content a {
     text-decoration: none;
     color: rgb(71, 68, 68);
+    padding: 8px 10px;
 }
 
 .content a:hover {
@@ -48,9 +54,8 @@ h2 {
 
 .content-list {
     font-size: 25px;
-}
-
-
-.content-list {
     padding: 40px;
 }
+
+
+
