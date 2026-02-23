@@ -11,12 +11,58 @@ body {
     font-family: "Roboto Condensed", sans-serif;
 }
 
+.recipe-body {
+    padding: 10px 30px;
+    font-size: 1.5rem;
+}
+
+figure {
+    text-align: center;
+    margin: 10px auto;
+    background-color: rgb(245, 173, 106);
+    padding: 10px 0;
+}
+figure img{
+    padding-bottom: 10px;
+}
+
+.recipe-body p {
+    font-size: 1.2rem;
+}
+
+.recipe-body li {
+    margin: 8px 0;
+}
+
+
+.follow {
+    margin-top: 40px;
+    margin-left: 40px ;
+}
+
+.recipe-body a {
+    
+    font-size: 1.3rem;
+}
+
+.footer {
+    text-align: center;
+    padding-bottom: 15px;
+}
 
 .content {
     width: 600px;
     margin: 80px auto;
     background-color: rgb(233, 123, 71);
     text-align: center;
+}
+
+.steps {
+    margin-top: 40px ;
+}
+
+.recipe-body h2 {
+    text-decoration: underline;
 }
 
 h1 {
@@ -41,13 +87,13 @@ h2 {
     padding: 5px;
 }
 
-.content a {
+.content a, .home {
     text-decoration: none;
     color: rgb(71, 68, 68);
     padding: 8px 10px;
 }
 
-.content a:hover {
+.content a:hover, .home:hover {
     background-color: rgb(107, 95, 95);
     color: bisque
 }
@@ -55,6 +101,10 @@ h2 {
 .content-list {
     font-size: 25px;
     padding: 40px;
+}
+
+hr { 
+    margin: 40px 0;
 }
 
 
